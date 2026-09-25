@@ -35,3 +35,4 @@ You may add more AI tools that summarizes youtube videos at the bottom of the li
 * **YouTube Digest**: YouTube Digest provides concise AI-powered summaries of YouTube videos, boosting information retention.
 * **YouTubeSummarized**: YouTubeSummarized delivers instant, comprehensive AI summaries for YouTube videos of any length.
 
+* [**SummarizAI**](https://summarizai.ink) - Chrome extension for on-page YouTube summary, chapters, chat, and Study flashcards (free for students).
